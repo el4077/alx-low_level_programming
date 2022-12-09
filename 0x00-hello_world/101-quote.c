@@ -1,4 +1,5 @@
-#include <stdio>
+#include <stdio.h>
+#include <unistd.h>
 /**
  * main - Entry
  * Return: 1
