@@ -3,7 +3,7 @@
 /**
  * add - add nmbrs
  * @a: frst
- * #b: scnd
+ * @b: scnd
  *Return: sum
  */
 int add(int a, int b)
